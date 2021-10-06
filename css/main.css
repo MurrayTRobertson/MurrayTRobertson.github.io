@@ -1,11 +1,3 @@
- 
-  
-Place the following inside main.css: 
- 
-  
- 
-Don't forget, when you add the new file, and its contents, that you need to ‘commit’ the file to your repository. 
- 
 body { 
     margin: 60px auto; 
     width: 70%; 
